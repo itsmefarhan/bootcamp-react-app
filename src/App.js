@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h2>My Projects</h2>
-      <p>Following are the github links of some of my practice applications:</p>
+      <p>Following are the <strong>github</strong> links of some of my practice applications:</p>
       <ul>
         <h3>
           <a href="https://github.com/itsmefarhan/flutter-space-x-api">
